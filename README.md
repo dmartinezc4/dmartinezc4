@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bgmanuel99&label=Profile%20views&color=0e75b6&style=flat" alt="bgmanuel99" /></p>
-<h3 align="center">Mi name is David Martinez, I'm a computer science who wants to start working, once i finished my degree.</h3>
+<h3 align="center">Mi name is David Martinez, I'm a computer science student who wants to start working, once I finish my degree.</h3>
 <h3 align="center">🔭 I'm currently studying at Nebrija University .</h3>
 <h3 align="center">🌱 I have learned so far, c++, java, sql, python and a bit of typescript and javascript </h3>
 
